@@ -1,0 +1,30 @@
+#pomodoro-circle {
+  width: 70vh;
+  height: 70vh;
+  margin: 10vh auto;
+  border-radius: 50%;
+  border: 1px solid red;  
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#timer {
+  display: flex;
+  font-size: 20vh;
+  padding-top: 25%;
+  flex-direction: column;
+}
+
+#start-stop {
+  display: flex;
+  font-size: 5vh;
+  width: 15vh;
+  height: 5vh;
+  margin-top: 20%;
+  flex-direction: column;
+  border: 1px solid red;
+  border-radius: 2%;
+}
