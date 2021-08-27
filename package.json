@@ -1,0 +1,23 @@
+{
+  "name": "pomodoro-app",
+  "version": "1.0.0",
+  "description": "This app is meant for personal use. I've found for certain tasks the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) is a great way to 'swallow the frog'.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crandonriordan/pomodoro-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crandonriordan/pomodoro-app/issues"
+  },
+  "homepage": "https://github.com/crandonriordan/pomodoro-app#readme"
+}
